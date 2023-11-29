@@ -51,3 +51,31 @@ li a:hover, .dropdown:hover .dropbtn {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+.imgcontainer {
+    position: relative;
+    text-align: center;
+    color: white;
+}  
+.imgtitle {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+.imgtitle {
+    font-size: 7vw;
+    font-weight: bold;
+    text-shadow: 0 0 10px #000000;
+  }
+.subtitle {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+.subtitle {
+    font-size: 2vw;
+    font-weight: bold;
+    text-shadow: 0 0 10px #000000;
+  }
+  

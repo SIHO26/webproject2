@@ -66,7 +66,20 @@ li a:hover, .dropdown:hover .dropbtn {
     font-size: 7vw;
     font-weight: bold;
     text-shadow: 0 0 10px #000000;
+}
+
+.imgtitle1 {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
+.imgtitle1 {
+    font-size: 7vw;
+    font-weight: bold;
+    text-shadow: 0 0 10px #000000;
+}
+
 .subtitle {
     position: absolute;
     top: 30%;
@@ -78,4 +91,15 @@ li a:hover, .dropdown:hover .dropbtn {
     font-weight: bold;
     text-shadow: 0 0 10px #000000;
   }
-  
+
+.subtitle1 {
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+.subtitle1 {
+    font-size: 2vw;
+    font-weight: bold;
+    text-shadow: 0 0 10px #000000;
+  }
